@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/Assignment1/image\ \(8\).png);
+}
+
+#maindiv{
+    background-color: rgba(0,0,0,0.7);
+    height: 100vh;
+}
+
+img{
+    margin-left: 150px;
+    margin-top: 35px;
+}
+
+.Sign{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    margin-left: 800px;
+    font-size: medium;
+    font-weight: 700;
+    height: 35px;
+    width: 63px;
+    margin-top: 50px;
+}
+
+.reg{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    margin-left: 15px;
+    font-size: medium;
+    font-weight: 700;
+    height: 35px;
+    width: 75px;
+    margin-top: 50px;
+}
+
+nav{
+    display: flex;  
+}
+
+input{
+    border: none;
+}
+
+.main{
+    text-align: center;
+    color: white;
+    margin-top: 190px;
+    font-size: 1.25rem; 
+}
+
+h1{
+    font-size: 55px;
+}
+
+#para1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+#para2{
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+
